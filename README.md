@@ -1,14 +1,11 @@
 # PGB_FantasyFootball
 
-PGB_FantasyFootball is the analysis and
+PGB_FantasyFootball is the analysis and data of the 2024 ESPN PGB Fantasy Football League. The league is a 12 team, PPR league with a snake draft.
 
-## Contributing
+## Updates To Code
+Week 1. 2024
+- Added the ability to pull in the current week's data from the ESPN API.
+- Sorted through the API and performed some exploratory data analysis to find what is available.
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+## Contact
+heywood@williamstracy.net
