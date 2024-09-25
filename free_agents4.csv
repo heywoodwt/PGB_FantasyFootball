@@ -1,0 +1,51 @@
+Name,Points,Projected,Position,Team,Injury Status,Eligible Slots,Acquisition Type,Injury Value,Value Ratio,PPR
+Justin Tucker,0,7.83,K,BAL,ACTIVE,"['K', 'BE', 'IR']",[],1.0,inf,inf
+49ers D/ST,0,7.02,D/ST,SF,(),"['D/ST', 'BE', 'IR']",[],1.0,inf,inf
+Sam Darnold,0,16.45,QB,MIN,QUESTIONABLE,"['QB', 'OP', 'BE', 'IR']",[],0.5,inf,inf
+Chase McLaughlin,0,8.12,K,TB,ACTIVE,"['K', 'BE', 'IR']",[],1.0,inf,inf
+Juwan Johnson,0,4.76,TE,NO,ACTIVE,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Dustin Hopkins,0,7.58,K,CLE,ACTIVE,"['K', 'BE', 'IR']",[],1.0,inf,inf
+Matt Gay,0,7.64,K,IND,ACTIVE,"['K', 'BE', 'IR']",[],1.0,inf,inf
+Tyler Bass,0,8.0,K,BUF,ACTIVE,"['K', 'BE', 'IR']",[],1.0,inf,inf
+Brenton Strange,0,1.05,TE,JAX,ACTIVE,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Michael Wilson,0,8.39,WR,ARI,ACTIVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Khalil Herbert,0,2.08,RB,CHI,ACTIVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Dontayvion Wicks,0,6.66,WR,GB,ACTIVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Eagles D/ST,0,7.17,D/ST,PHI,(),"['D/ST', 'BE', 'IR']",[],1.0,inf,inf
+Jason Sanders,0,7.39,K,MIA,ACTIVE,"['K', 'BE', 'IR']",[],1.0,inf,inf
+Ray Davis,0,4.47,RB,BUF,ACTIVE,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Jamaal Williams,0,5.7,RB,NO,ACTIVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Tank Bigsby,0,3.54,RB,JAX,ACTIVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Colts D/ST,0,6.89,D/ST,IND,(),"['D/ST', 'BE', 'IR']",[],1.0,inf,inf
+Jordan Whittington,0,7.94,WR,LAR,ACTIVE,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Bo Nix,0,14.61,QB,DEN,ACTIVE,"['Rookie', 'QB', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Falcons D/ST,0,4.65,D/ST,ATL,(),"['D/ST', 'BE', 'IR']",[],1.0,inf,inf
+Zach Ertz,0,9.21,TE,WSH,ACTIVE,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Vikings D/ST,0,5.06,D/ST,MIN,(),"['D/ST', 'BE', 'IR']",[],1.0,inf,inf
+Packers D/ST,0,5.98,D/ST,GB,(),"['D/ST', 'BE', 'IR']",[],1.0,inf,inf
+Jaleel McLaughlin,0,5.89,RB,DEN,ACTIVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Tee Higgins,0,11.72,WR,CIN,ACTIVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Ravens D/ST,0,3.49,D/ST,BAL,(),"['D/ST', 'BE', 'IR']",[],1.0,inf,inf
+Isaiah Likely,0,7.33,TE,BAL,ACTIVE,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Greg Zuerlein,0,8.06,K,NYJ,ACTIVE,"['K', 'BE', 'IR']",[],1.0,inf,inf
+Jakobi Meyers,0,8.67,WR,LV,ACTIVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Saints D/ST,0,4.67,D/ST,NO,(),"['D/ST', 'BE', 'IR']",[],1.0,inf,inf
+Buccaneers D/ST,0,4.72,D/ST,TB,(),"['D/ST', 'BE', 'IR']",[],1.0,inf,inf
+Bears D/ST,0,5.6,D/ST,CHI,(),"['D/ST', 'BE', 'IR']",[],1.0,inf,inf
+Matthew Stafford,0,13.26,QB,LAR,ACTIVE,"['QB', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Blake Grupe,0,7.95,K,NO,ACTIVE,"['K', 'BE', 'IR']",[],1.0,inf,inf
+Allen Lazard,0,8.39,WR,NYJ,ACTIVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Blake Corum,0,0.79,RB,LAR,ACTIVE,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Antonio Gibson,0,7.08,RB,NE,ACTIVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Bills D/ST,0,4.7,D/ST,BUF,(),"['D/ST', 'BE', 'IR']",[],1.0,inf,inf
+Mike Gesicki,0,8.42,TE,CIN,ACTIVE,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Braelon Allen,0,8.84,RB,NYJ,ACTIVE,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Geno Smith,0,16.0,QB,SEA,ACTIVE,"['QB', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Cole Kmet,0,8.49,TE,CHI,ACTIVE,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Jalen Tolbert,0,7.58,WR,DAL,ACTIVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf,inf
+Nick Chubb,0,0.0,RB,CLE,OUT,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],0.0,,
+Adam Thielen,0,0.0,WR,CAR,INJURY_RESERVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],0.5,,
+Tua Tagovailoa,0,0.0,QB,MIA,INJURY_RESERVE,"['QB', 'OP', 'BE', 'IR']",[],0.5,,
+Kareem Hunt,0,0.0,RB,KC,ACTIVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,,
+MarShawn Lloyd,0,0.0,RB,GB,INJURY_RESERVE,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],0.5,,
+Kendre Miller,0,0.0,RB,NO,INJURY_RESERVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],0.5,,

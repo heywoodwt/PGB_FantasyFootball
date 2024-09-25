@@ -1,0 +1,51 @@
+Name,Points,Projected,Position,Team,Injury Status,Eligible Slots,Acquisition Type,Injury Value,PPR
+Juwan Johnson,0.0,96.53,TE,NO,ACTIVE,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf
+Mike Gesicki,0.0,106.1,TE,CIN,ACTIVE,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf
+Brenton Strange,0.0,8.17,TE,JAX,ACTIVE,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf
+Blake Corum,0.0,15.99,RB,LAR,ACTIVE,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf
+Tyler Bass,0.0,122.69,K,BUF,ACTIVE,"['K', 'BE', 'IR']",[],1.0,inf
+Dontayvion Wicks,0.0,116.91,WR,GB,ACTIVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf
+Zach Ertz,0.0,111.28,TE,WSH,ACTIVE,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf
+Ray Davis,0.0,62.79,RB,BUF,ACTIVE,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf
+Tua Tagovailoa,0.0,179.37,QB,MIA,INJURY_RESERVE,"['QB', 'OP', 'BE', 'IR']",[],0.5,inf
+Bills D/ST,0.0,90.29,D/ST,BUF,(),"['D/ST', 'BE', 'IR']",[],1.0,inf
+Tank Bigsby,0.0,76.41,RB,JAX,QUESTIONABLE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],0.5,inf
+Dustin Hopkins,0.0,118.34,K,CLE,ACTIVE,"['K', 'BE', 'IR']",[],1.0,inf
+Nick Chubb,0.0,140.39,RB,CLE,OUT,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],0.0,inf
+Tee Higgins,0.0,185.98,WR,CIN,ACTIVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,inf
+Chase McLaughlin,1.0,123.74,K,TB,ACTIVE,"['K', 'BE', 'IR']",[],1.0,125.74
+Jamaal Williams,0.9,93.41,RB,NO,ACTIVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,108.78888888888888
+Isaiah Likely,1.4,120.36,TE,BAL,ACTIVE,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,90.97142857142858
+Falcons D/ST,1.0,86.34,D/ST,ATL,(),"['D/ST', 'BE', 'IR']",[],1.0,88.34
+Buccaneers D/ST,1.0,72.71,D/ST,TB,(),"['D/ST', 'BE', 'IR']",[],1.0,74.71
+Jason Sanders,2.0,120.41,K,MIA,ACTIVE,"['K', 'BE', 'IR']",[],1.0,62.205
+Ravens D/ST,2.0,108.97,D/ST,BAL,(),"['D/ST', 'BE', 'IR']",[],1.0,56.485
+Khalil Herbert,0.9,39.32,RB,CHI,ACTIVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,48.68888888888889
+Justin Tucker,3.0,123.42,K,BAL,ACTIVE,"['K', 'BE', 'IR']",[],1.0,43.14
+Matt Gay,3.0,120.15,K,IND,ACTIVE,"['K', 'BE', 'IR']",[],1.0,42.050000000000004
+Greg Zuerlein,5.0,123.33,K,NYJ,ACTIVE,"['K', 'BE', 'IR']",[],1.0,26.666
+Geno Smith,11.36,260.0,QB,SEA,ACTIVE,"['QB', 'OP', 'BE', 'IR']",[],1.0,25.887323943661972
+Blake Grupe,6.0,127.78,K,NO,ACTIVE,"['K', 'BE', 'IR']",[],1.0,23.296666666666667
+Bears D/ST,5.0,104.13,D/ST,CHI,(),"['D/ST', 'BE', 'IR']",[],1.0,22.826
+Saints D/ST,6.0,116.88,D/ST,NO,(),"['D/ST', 'BE', 'IR']",[],1.0,21.48
+Matthew Stafford,12.84,231.1,QB,LAR,ACTIVE,"['QB', 'OP', 'BE', 'IR']",[],1.0,20.998442367601246
+Jaleel McLaughlin,8.4,131.98,RB,DEN,ACTIVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,20.711904761904762
+Jahan Dotson,2.8,40.84,WR,PHI,ACTIVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,20.58571428571429
+Antonio Gibson,6.7,102.63,RB,NE,ACTIVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,20.317910447761193
+49ers D/ST,5.0,76.33,D/ST,SF,(),"['D/ST', 'BE', 'IR']",[],1.0,17.266
+Braelon Allen,9.8,109.17,RB,NYJ,ACTIVE,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,17.139795918367348
+Allen Lazard,13.8,132.42,WR,NYJ,ACTIVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,15.595652173913042
+Bo Nix,19.34,199.25,QB,DEN,ACTIVE,"['Rookie', 'QB', 'OP', 'BE', 'IR']",[],1.0,14.30248190279214
+Michael Wilson,14.4,114.44,WR,ARI,ACTIVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,13.947222222222221
+Adam Thielen,13.0,138.57,WR,CAR,QUESTIONABLE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],0.5,13.159230769230769
+Jakobi Meyers,21.2,140.72,WR,LV,ACTIVE,"['RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,12.637735849056604
+Jordan Whittington,5.8,32.53,WR,LAR,ACTIVE,"['Rookie', 'RB/WR', 'WR', 'WR/TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,12.608620689655172
+Sam Darnold,23.24,240.06,QB,MIN,QUESTIONABLE,"['QB', 'OP', 'BE', 'IR']",[],0.5,11.329604130808951
+Eagles D/ST,8.0,63.94,D/ST,PHI,(),"['D/ST', 'BE', 'IR']",[],1.0,9.9925
+Colts D/ST,10.0,67.21,D/ST,IND,(),"['D/ST', 'BE', 'IR']",[],1.0,8.721
+Cole Kmet,25.7,87.25,TE,CHI,ACTIVE,"['WR/TE', 'TE', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,8.394941634241246
+Vikings D/ST,14.0,86.33,D/ST,MIN,(),"['D/ST', 'BE', 'IR']",[],1.0,8.166428571428572
+Packers D/ST,23.0,67.23,D/ST,GB,(),"['D/ST', 'BE', 'IR']",[],1.0,4.92304347826087
+Kareem Hunt,0.0,0.0,RB,None,ACTIVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],1.0,
+MarShawn Lloyd,0.0,0.0,RB,GB,INJURY_RESERVE,"['Rookie', 'RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],0.5,
+Kendre Miller,0.0,0.0,RB,NO,INJURY_RESERVE,"['RB', 'RB/WR', 'RB/WR/TE', 'OP', 'BE', 'IR']",[],0.5,
